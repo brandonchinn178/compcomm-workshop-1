@@ -1,0 +1,7 @@
+.content p a {
+    color: #ff00ff;
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 0.5em;
+    background: #aaaaaa;
+}
